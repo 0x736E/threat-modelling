@@ -1,7 +1,7 @@
 # Threat Modelling
 Threat Modelling Assets (STRIDE, DREAD, etc. cheat sheets)
 
-# Introduction Workshop Slides
+# Introduction Workshop Video
 [![Introduction Video](https://img.youtube.com/vi/o6b0FMwfnPY/0.jpg)](https://www.youtube.com/watch?v=o6b0FMwfnPY)
 
 # Cheat Sheets
